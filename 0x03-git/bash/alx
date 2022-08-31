@@ -1,5 +1,5 @@
 #!/bin/bash
-<<<<<<< HEAD
+
 "ALX School"
 =======
 
@@ -7,4 +7,4 @@ echo "ALX School is open"
 
 echo "ALX School"
 
->>>>>>> 230be2fc6ac389303f2b02eb88924dacd9096f36
+
